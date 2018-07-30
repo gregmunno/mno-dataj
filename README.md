@@ -11,3 +11,4 @@ Just Thurway Crime at https://goo.gl/6pP1Ap
 
 City data at http://data.syrgov.net/ 
 
+Slides at https://goo.gl/MmZLZU
